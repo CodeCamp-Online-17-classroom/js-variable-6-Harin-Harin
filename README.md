@@ -8,4 +8,9 @@
 // Example
 let BRAND_NAME = 'I am a hero'
 // ได้ นิยมใช้ในกรณี...
+
+- สร้างตัวแปรใหม่โดยใช้ toUpperCase();ต่อท้ายตัวแปรเก่า
+  let (ตัวแปรใหม่) = (ตัวแปรเก่า).toUpperCase();
+  let BIG_BRAND_NAME = BRAND_NAME.toUpperCase();
+
 ```
